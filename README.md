@@ -1,1 +1,0 @@
-This repo serves as the live link for the wordle clone
